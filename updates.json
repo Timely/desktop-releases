@@ -1,0 +1,18 @@
+{
+  "osx64": {
+    "url": "https://github.com/megahertz/timely-desktop/releases/download/osx64-v0.0.3/release.json",
+    "installer": "https://github.com/megahertz/timely-desktop/releases/download/osx64-v0.0.3/Timely-0.0.3.dmg",
+    "name": "osx64-v0.0.3",
+    "version": "0.0.3",
+    "notes": "osx64-v0.0.3 release",
+    "pubDate": "2016-05-02T15:15:21.895Z"
+  },
+  "win32": {
+    "url": "https://github.com/Timely/desktop-releases/releases/download/win32-v0.0.3",
+    "installer": "https://github.com/Timely/desktop-releases/releases/download/win32-v0.0.3/TimelySetup-0.0.3-ia32.exe",
+    "name": "win32-v0.0.3",
+    "version": "0.0.3",
+    "notes": "win32-v0.0.3 release",
+    "pubDate": "2016-05-02T18:18:14.131Z"
+  }
+}
