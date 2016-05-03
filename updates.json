@@ -30,5 +30,13 @@
     "version": "0.1.0",
     "notes": "lin64-v0.1.0 release",
     "pubDate": "2016-05-03T14:34:12.748Z"
+  },
+  "win64": {
+    "url": "https://github.com/Timely/desktop-releases/releases/download/win64-v0.1.0",
+    "installer": "https://github.com/Timely/desktop-releases/releases/download/win64-v0.1.0/TimelySetup-0.1.0.exe",
+    "name": "win64-v0.1.0",
+    "version": "0.1.0",
+    "notes": "win64-v0.1.0 release",
+    "pubDate": "2016-05-03T14:33:40.934Z"
   }
 }
