@@ -1,11 +1,11 @@
 {
   "osx64": {
-    "url": "https://github.com/Timely/desktop-releases/releases/download/osx64-v0.1.1/release.json",
-    "installer": "https://github.com/Timely/desktop-releases/releases/download/osx64-v0.1.1/Timely-0.1.1.dmg",
-    "name": "osx64-v0.1.1",
-    "version": "0.1.1",
-    "notes": "osx64-v0.1.1 release",
-    "pubDate": "2016-05-11T09:44:11.427Z"
+    "url": "https://github.com/megahertz/timely-desktop/releases/download/osx64-v0.0.3/release.json",
+    "installer": "https://github.com/megahertz/timely-desktop/releases/download/osx64-v0.0.3/Timely-0.0.3.dmg",
+    "name": "osx64-v0.0.3",
+    "version": "0.0.3",
+    "notes": "osx64-v0.0.3 release",
+    "pubDate": "2016-05-02T15:15:21.895Z"
   },
   "win32": {
     "url": "https://github.com/Timely/desktop-releases/releases/download/win32-v0.0.3",
@@ -16,11 +16,19 @@
     "pubDate": "2016-05-02T18:18:14.131Z"
   },
   "lin32": {
-    "url": "https://github.com/Timely/desktop-releases/releases/download/lin32-v0.0.3Timely-0.0.3-i386.deb",
-    "installer": "https://github.com/Timely/desktop-releases/releases/download/lin32-v0.0.3Timely-0.0.3-i386.deb",
-    "name": "lin32-v0.0.3",
-    "version": "0.0.3",
-    "notes": "lin32-v0.0.3 release",
-    "pubDate": "2016-05-03T13:31:50.814Z"
+    "url": "https://github.com/Timely/desktop-releases/releases/download/lin32-v0.1.0/Timely-0.1.0-i386.deb",
+    "installer": "https://github.com/Timely/desktop-releases/releases/download/lin32-v0.1.0/Timely-0.1.0-i386.deb",
+    "name": "lin32-v0.1.0",
+    "version": "0.1.0",
+    "notes": "lin32-v0.1.0 release",
+    "pubDate": "2016-05-03T15:07:01.601Z"
+  },
+  "lin64": {
+    "url": "https://github.com/Timely/desktop-releases/releases/download/lin64-v0.2.0/Timely-0.2.0-amd64.deb",
+    "installer": "https://github.com/Timely/desktop-releases/releases/download/lin64-v0.2.0/Timely-0.2.0-amd64.deb",
+    "name": "lin64-v0.2.0",
+    "version": "0.2.0",
+    "notes": "lin64-v0.2.0 release",
+    "pubDate": "2016-05-24T10:33:51.698Z"
   }
 }
