@@ -8,12 +8,12 @@
     "pubDate": "2016-05-11T09:44:11.427Z"
   },
   "win32": {
-    "url": "https://github.com/Timely/desktop-releases/releases/download/win32-v0.0.3",
-    "installer": "https://github.com/Timely/desktop-releases/releases/download/win32-v0.0.3/TimelySetup-0.0.3-ia32.exe",
-    "name": "win32-v0.0.3",
-    "version": "0.0.3",
-    "notes": "win32-v0.0.3 release",
-    "pubDate": "2016-05-02T18:18:14.131Z"
+    "url": "https://github.com/Timely/desktop-releases/releases/download/win32-v0.2.0",
+    "installer": "https://github.com/Timely/desktop-releases/releases/download/win32-v0.2.0/Timely.Setup.0.2.0-ia32.exe",
+    "name": "win32-v0.2.0",
+    "version": "0.2.0",
+    "notes": "win32-v0.2.0 release",
+    "pubDate": "2016-05-24T11:08:24.067Z"
   },
   "lin32": {
     "url": "https://github.com/Timely/desktop-releases/releases/download/lin32-v0.0.3Timely-0.0.3-i386.deb",
