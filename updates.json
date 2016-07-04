@@ -24,12 +24,12 @@
     "pubDate": "2016-07-04T16:21:33.419Z"
   },
   "lin64": {
-    "url": "https://github.com/Timely/desktop-releases/releases/download/lin64-v0.2.0/Timely-0.2.0-amd64.deb",
-    "installer": "https://github.com/Timely/desktop-releases/releases/download/lin64-v0.2.0/Timely-0.2.0-amd64.deb",
-    "name": "lin64-v0.2.0",
-    "version": "0.2.0",
-    "notes": "lin64-v0.2.0 release",
-    "pubDate": "2016-05-24T10:33:51.698Z"
+    "url": "https://github.com/Timely/desktop-releases/releases/download/lin64-v0.3.0/Timely-0.3.0.deb",
+    "installer": "https://github.com/Timely/desktop-releases/releases/download/lin64-v0.3.0/Timely-0.3.0.deb",
+    "name": "lin64-v0.3.0",
+    "version": "0.3.0",
+    "notes": "lin64-v0.3.0 release",
+    "pubDate": "2016-07-04T16:22:29.700Z"
   },
   "win64": {
     "url": "https://github.com/Timely/desktop-releases/releases/download/win64-v0.3.0",
