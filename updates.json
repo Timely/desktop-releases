@@ -1,11 +1,11 @@
 {
   "osx64": {
-    "url": "https://github.com/Timely/desktop-releases/releases/download/osx64-v0.3.3/release.json",
-    "installer": "https://github.com/Timely/desktop-releases/releases/download/osx64-v0.3.3/Timely-0.3.3.dmg",
-    "name": "osx64-v0.3.3",
-    "version": "0.3.3",
-    "notes": "osx64-v0.3.3 release",
-    "pubDate": "2016-08-31T18:11:34.025Z"
+    "url": "https://github.com/Timely/desktop-releases/releases/download/osx64-v0.3.4/release.json",
+    "installer": "https://github.com/Timely/desktop-releases/releases/download/osx64-v0.3.4/Timely-0.3.4.dmg",
+    "name": "osx64-v0.3.4",
+    "version": "0.3.4",
+    "notes": "osx64-v0.3.4 release",
+    "pubDate": "2016-09-13T07:53:51.231Z"
   },
   "win32": {
     "url": "https://github.com/Timely/desktop-releases/releases/download/win32-v0.3.0",
