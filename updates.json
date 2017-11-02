@@ -32,11 +32,11 @@
     "pubDate": "2017-09-25T09:26:12.061Z"
   },
   "win64": {
-    "url": "https://github.com/Timely/desktop-releases/releases/download/win64-v0.4.7",
-    "installer": "https://github.com/Timely/desktop-releases/releases/download/win64-v0.4.7/Timely.Setup.0.4.7.exe",
-    "name": "win64-v0.4.7",
-    "version": "0.4.7",
-    "notes": "win64-v0.4.7 release",
-    "pubDate": "2017-09-25T09:26:02.716Z"
+    "url": "https://github.com/Timely/desktop-releases/releases/download/win64-v0.4.8",
+    "installer": "https://github.com/Timely/desktop-releases/releases/download/win64-v0.4.8/Timely.Setup.0.4.8.exe",
+    "name": "win64-v0.4.8",
+    "version": "0.4.8",
+    "notes": "win64-v0.4.8 release",
+    "pubDate": "2017-11-02T14:14:05.264Z"
   }
 }
