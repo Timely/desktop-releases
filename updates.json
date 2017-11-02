@@ -16,12 +16,12 @@
     "pubDate": "2017-09-25T09:27:23.159Z"
   },
   "lin32": {
-    "url": "https://github.com/Timely/desktop-releases/releases/download/lin32-v0.4.7/Timely-0.4.7-ia32.AppImage",
-    "installer": "https://github.com/Timely/desktop-releases/releases/download/lin32-v0.4.7/Timely-0.4.7-ia32.AppImage",
-    "name": "lin32-v0.4.7",
-    "version": "0.4.7",
-    "notes": "lin32-v0.4.7 release",
-    "pubDate": "2017-09-25T09:27:21.100Z"
+    "url": "https://github.com/Timely/desktop-releases/releases/download/lin32-v0.4.8/Timely-0.4.8-ia32.AppImage",
+    "installer": "https://github.com/Timely/desktop-releases/releases/download/lin32-v0.4.8/Timely-0.4.8-ia32.AppImage",
+    "name": "lin32-v0.4.8",
+    "version": "0.4.8",
+    "notes": "lin32-v0.4.8 release",
+    "pubDate": "2017-11-02T14:15:52.029Z"
   },
   "lin64": {
     "url": "https://github.com/Timely/desktop-releases/releases/download/lin64-v0.4.8/Timely-0.4.8-x86_64.AppImage",
