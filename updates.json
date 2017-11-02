@@ -24,12 +24,12 @@
     "pubDate": "2017-09-25T09:27:21.100Z"
   },
   "lin64": {
-    "url": "https://github.com/Timely/desktop-releases/releases/download/lin64-v0.4.7/Timely-0.4.7-x86_64.AppImage",
-    "installer": "https://github.com/Timely/desktop-releases/releases/download/lin64-v0.4.7/Timely-0.4.7-x86_64.AppImage",
-    "name": "lin64-v0.4.7",
-    "version": "0.4.7",
-    "notes": "lin64-v0.4.7 release",
-    "pubDate": "2017-09-25T09:26:12.061Z"
+    "url": "https://github.com/Timely/desktop-releases/releases/download/lin64-v0.4.8/Timely-0.4.8-x86_64.AppImage",
+    "installer": "https://github.com/Timely/desktop-releases/releases/download/lin64-v0.4.8/Timely-0.4.8-x86_64.AppImage",
+    "name": "lin64-v0.4.8",
+    "version": "0.4.8",
+    "notes": "lin64-v0.4.8 release",
+    "pubDate": "2017-11-02T14:14:08.097Z"
   },
   "win64": {
     "url": "https://github.com/Timely/desktop-releases/releases/download/win64-v0.4.8",
