@@ -38,5 +38,10 @@
     "version": "0.4.8",
     "notes": "win64-v0.4.8 release",
     "pubDate": "2017-11-02T14:14:05.264Z"
+  },
+  "linux-x64-dev": {
+    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-v0.5.0/Timely.0.5.0.AppImage",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-v0.5.0/Timely.0.5.0.AppImage",
+    "version": "0.5.0"
   }
 }
