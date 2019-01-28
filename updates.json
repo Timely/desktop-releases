@@ -15,22 +15,6 @@
     "notes": "win32-v0.5.0 release",
     "pubDate": "2019-01-28T00:00:00.000Z"
   },
-  "lin32": {
-    "url": "https://github.com/Timely/desktop-releases/releases/download/lin32-v0.4.8/Timely-0.4.8-ia32.AppImage",
-    "installer": "https://github.com/Timely/desktop-releases/releases/download/lin32-v0.4.8/Timely-0.4.8-ia32.AppImage",
-    "name": "lin32-v0.4.8",
-    "version": "0.4.8",
-    "notes": "lin32-v0.4.8 release",
-    "pubDate": "2017-11-02T14:15:52.029Z"
-  },
-  "lin64": {
-    "url": "https://github.com/Timely/desktop-releases/releases/download/lin64-v0.4.8/Timely-0.4.8-x86_64.AppImage",
-    "installer": "https://github.com/Timely/desktop-releases/releases/download/lin64-v0.4.8/Timely-0.4.8-x86_64.AppImage",
-    "name": "lin64-v0.4.8",
-    "version": "0.4.8",
-    "notes": "lin64-v0.4.8 release",
-    "pubDate": "2017-11-02T14:14:08.097Z"
-  },
   "win64": {
     "url": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-prod-v0.5.0",
     "installer": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-prod-v0.5.0/Timely.Setup.0.5.0.exe",
