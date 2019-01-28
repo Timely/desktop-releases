@@ -40,28 +40,28 @@
     "pubDate": "2017-11-02T14:14:05.264Z"
   },
   "darwin-x64-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-v0.5.0-b281/release.json",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-v0.5.0-b281/Timely-0.5.0-b281.dmg",
-    "version": "0.5.0-b281"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-v0.5.0-b282/release.json",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-v0.5.0-b282/Timely-0.5.0-b282.dmg",
+    "version": "0.5.0-b282"
   },
   "win32-x64-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-v0.5.0-b281",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-v0.5.0-b281/Timely.Setup.0.5.0-b281.exe",
-    "version": "0.5.0-b281"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-v0.5.0-b282",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-v0.5.0-b282/Timely.Setup.0.5.0-b282.exe",
+    "version": "0.5.0-b282"
   },
   "linux-x64-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-v0.5.0-b281/Timely.0.5.0-b281.AppImage",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-v0.5.0-b281/Timely.0.5.0-b281.AppImage",
-    "version": "0.5.0-b281"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-v0.5.0-b282/Timely.0.5.0-b282.AppImage",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-v0.5.0-b282/Timely.0.5.0-b282.AppImage",
+    "version": "0.5.0-b282"
   },
   "win32-ia32-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-v0.5.0-b281",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-v0.5.0-b281/Timely.Setup.0.5.0-b281.exe",
-    "version": "0.5.0-b281"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-v0.5.0-b282",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-v0.5.0-b282/Timely.Setup.0.5.0-b282.exe",
+    "version": "0.5.0-b282"
   },
   "linux-ia32-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-ia32-dev-v0.5.0-b281/Timely.0.5.0-b281.i386.AppImage",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-ia32-dev-v0.5.0-b281/Timely.0.5.0-b281.i386.AppImage",
-    "version": "0.5.0-b281"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-ia32-dev-v0.5.0-b282/Timely.0.5.0-b282.i386.AppImage",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-ia32-dev-v0.5.0-b282/Timely.0.5.0-b282.i386.AppImage",
+    "version": "0.5.0-b282"
   }
 }
