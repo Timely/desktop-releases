@@ -8,12 +8,12 @@
     "pubDate": "2019-01-28T00:00:00.000Z"
   },
   "win32": {
-    "url": "https://github.com/Timely/desktop-releases/releases/download/win32-v0.4.8",
-    "installer": "https://github.com/Timely/desktop-releases/releases/download/win32-v0.4.8/Timely.Setup.0.4.8-ia32.exe",
-    "name": "win32-v0.4.8",
-    "version": "0.4.8",
-    "notes": "win32-v0.4.8 release",
-    "pubDate": "2017-11-02T14:15:51.189Z"
+    "url": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-prod-v0.5.0",
+    "installer": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-prod-v0.5.0/Timely.Setup.0.5.0.exe",
+    "name": "win32-v0.5.0",
+    "version": "0.5.0",
+    "notes": "win32-v0.5.0 release",
+    "pubDate": "2019-01-28T00:00:00.000Z"
   },
   "lin32": {
     "url": "https://github.com/Timely/desktop-releases/releases/download/lin32-v0.4.8/Timely-0.4.8-ia32.AppImage",
@@ -32,12 +32,12 @@
     "pubDate": "2017-11-02T14:14:08.097Z"
   },
   "win64": {
-    "url": "https://github.com/Timely/desktop-releases/releases/download/win64-v0.4.8",
-    "installer": "https://github.com/Timely/desktop-releases/releases/download/win64-v0.4.8/Timely.Setup.0.4.8.exe",
-    "name": "win64-v0.4.8",
-    "version": "0.4.8",
-    "notes": "win64-v0.4.8 release",
-    "pubDate": "2017-11-02T14:14:05.264Z"
+    "url": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-prod-v0.5.0",
+    "installer": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-prod-v0.5.0/Timely.Setup.0.5.0.exe",
+    "name": "win64-v0.5.0",
+    "version": "0.5.0",
+    "notes": "win64-v0.5.0 release",
+    "pubDate": "2019-01-28T00:00:00.000Z"
   },
   "darwin-x64-dev": {
     "update": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-v0.5.0-b290/release.json",
