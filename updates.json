@@ -1,11 +1,11 @@
 {
   "osx64": {
-    "url": "https://github.com/Timely/desktop-releases/releases/download/osx64-v0.4.8/release.json",
-    "installer": "https://github.com/Timely/desktop-releases/releases/download/osx64-v0.4.8/Timely-0.4.8.dmg",
-    "name": "osx64-v0.4.8",
-    "version": "0.4.8",
-    "notes": "osx64-v0.4.8 release",
-    "pubDate": "2017-11-02T14:14:00.038Z"
+    "url": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-prod-v0.5.0/release.json",
+    "installer": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-prod-v0.5.0/Timely-0.5.0.dmg",
+    "name": "osx64-v0.5.0",
+    "version": "0.5.0",
+    "notes": "osx64-v0.5.0 release",
+    "pubDate": "2019-01-28T00:00:00.000Z"
   },
   "win32": {
     "url": "https://github.com/Timely/desktop-releases/releases/download/win32-v0.4.8",
