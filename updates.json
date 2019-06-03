@@ -24,53 +24,53 @@
     "pubDate": "2019-01-28T00:00:00.000Z"
   },
   "darwin-x64-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-v1.0.0-b297/release.json",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-v1.0.0-b297/Timely-1.0.0-b297.dmg",
-    "version": "1.0.0-b297"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-v0.6.1-b295/release.json",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-v0.6.1-b295/Timely-0.6.1-b295.dmg",
+    "version": "0.6.1-b295"
   },
   "win32-x64-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-v1.0.0-b297",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-v1.0.0-b297/Timely.Setup.1.0.0-b297.exe",
-    "version": "1.0.0-b297"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-v0.6.1-b295",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-v0.6.1-b295/Timely.Setup.0.6.1-b295.exe",
+    "version": "0.6.1-b295"
   },
   "linux-x64-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-v1.0.0-b297/Timely.1.0.0-b297.AppImage",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-v1.0.0-b297/Timely.1.0.0-b297.AppImage",
-    "version": "1.0.0-b297"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-v0.6.1-b295/Timely.0.6.1-b295.AppImage",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-v0.6.1-b295/Timely.0.6.1-b295.AppImage",
+    "version": "0.6.1-b295"
   },
   "win32-ia32-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-v1.0.0-b297",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-v1.0.0-b297/Timely.Setup.1.0.0-b297.exe",
-    "version": "1.0.0-b297"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-v0.6.1-b295",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-v0.6.1-b295/Timely.Setup.0.6.1-b295.exe",
+    "version": "0.6.1-b295"
   },
   "linux-ia32-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-ia32-dev-v1.0.0-b297/Timely.1.0.0-b297.i386.AppImage",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-ia32-dev-v1.0.0-b297/Timely.1.0.0-b297.i386.AppImage",
-    "version": "1.0.0-b297"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-ia32-dev-v0.6.1-b295/Timely.0.6.1-b295.i386.AppImage",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-ia32-dev-v0.6.1-b295/Timely.0.6.1-b295.i386.AppImage",
+    "version": "0.6.1-b295"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-prod-v0.6.1/release.json",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-prod-v0.6.1/Timely-0.6.1.dmg",
-    "version": "0.6.1"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-prod-v1.0.0/release.json",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-prod-v1.0.0/Timely-1.0.0.dmg",
+    "version": "1.0.0"
   },
   "linux-ia32-prod": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-ia32-prod-v0.6.1/Timely.0.6.1.i386.AppImage",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-ia32-prod-v0.6.1/Timely.0.6.1.i386.AppImage",
-    "version": "0.6.1"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-ia32-prod-v1.0.0/Timely.1.0.0.i386.AppImage",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-ia32-prod-v1.0.0/Timely.1.0.0.i386.AppImage",
+    "version": "1.0.0"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-prod-v0.6.1/Timely.0.6.1.AppImage",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-prod-v0.6.1/Timely.0.6.1.AppImage",
-    "version": "0.6.1"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-prod-v1.0.0/Timely.1.0.0.AppImage",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-prod-v1.0.0/Timely.1.0.0.AppImage",
+    "version": "1.0.0"
   },
   "win32-ia32-prod": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-prod-v0.6.1",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-prod-v0.6.1/Timely.Setup.0.6.1.exe",
-    "version": "0.6.1"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-prod-v1.0.0",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-prod-v1.0.0/Timely.Setup.1.0.0.exe",
+    "version": "1.0.0"
   },
   "win32-x64-prod": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-prod-v0.6.1",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-prod-v0.6.1/Timely.Setup.0.6.1.exe",
-    "version": "0.6.1"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-prod-v1.0.0",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-prod-v1.0.0/Timely.Setup.1.0.0.exe",
+    "version": "1.0.0"
   }
 }
