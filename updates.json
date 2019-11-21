@@ -24,14 +24,14 @@
     "pubDate": "2019-01-28T00:00:00.000Z"
   },
   "darwin-x64-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-v1.0.5-b322/release.json",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-v1.0.5-b322/Timely-1.0.5-b322.dmg",
-    "version": "1.0.5-b322"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-v1.0.5-b325/release.json",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-v1.0.5-b325/Timely-1.0.5-b325.dmg",
+    "version": "1.0.5-b325"
   },
   "win32-x64-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-v1.0.5-b322",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-v1.0.5-b322/Timely.Setup.1.0.5-b322.exe",
-    "version": "1.0.5-b322"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-v1.0.5-b325",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-v1.0.5-b325/Timely.Setup.1.0.5-b325.exe",
+    "version": "1.0.5-b325"
   },
   "linux-x64-dev": {
     "update": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-v1.0.2-b305/Timely.1.0.2-b305.AppImage",
@@ -39,9 +39,9 @@
     "version": "1.0.2-b305"
   },
   "win32-ia32-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-v1.0.5-b322",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-v1.0.5-b322/Timely.Setup.1.0.5-b322.exe",
-    "version": "1.0.5-b322"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-v1.0.5-b325",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-v1.0.5-b325/Timely.Setup.1.0.5-b325.exe",
+    "version": "1.0.5-b325"
   },
   "linux-ia32-dev": {
     "update": "https://github.com/Timely/desktop-releases/releases/download/linux-ia32-dev-v1.0.2-b305/Timely.1.0.2-b305.i386.AppImage",
