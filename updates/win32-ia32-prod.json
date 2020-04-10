@@ -1,7 +1,7 @@
 {
   "win32-ia32-prod": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-prod-1.0.10",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-prod-1.0.10/Timely.Setup.1.0.10.exe",
-    "version": "1.0.10"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-prod-1.1.0",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-prod-1.1.0/Timely.Setup.1.1.0.exe",
+    "version": "1.1.0"
   }
 }
