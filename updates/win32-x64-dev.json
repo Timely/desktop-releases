@@ -1,7 +1,7 @@
 {
   "win32-x64-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-1.0.10-dev.349",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-1.0.10-dev.349/Timely.Setup.1.0.10-dev.349.exe",
-    "version": "1.0.10-dev.349"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-1.0.10-dev.350",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-x64-dev-1.0.10-dev.350/Timely.Setup.1.0.10-dev.350.exe",
+    "version": "1.0.10-dev.350"
   }
 }
