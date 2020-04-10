@@ -1,7 +1,7 @@
 {
   "darwin-x64-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-1.0.10-dev.350/release.json",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-1.0.10-dev.350/Timely-1.0.10-dev.350.dmg",
-    "version": "1.0.10-dev.350"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-1.0.10-dev.351/release.json",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/darwin-x64-dev-1.0.10-dev.351/Timely-1.0.10-dev.351.dmg",
+    "version": "1.0.10-dev.351"
   }
 }
