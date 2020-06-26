@@ -3,6 +3,6 @@
     "update": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-1.1.0-dev.339/Timely-1.1.0-dev.339.AppImage",
     "install": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-1.1.0-dev.339/Timely-1.1.0-dev.339.AppImage",
     "version": "1.1.0-dev.339",
-    "sha256": "c5911374b3994b6ea6e9c88fc7d6ed2531065c64857b76ff6752fd85715e9152"
+    "sha256": "8495df761cecdceb4617eae0608891559536f4d0a118048f7275d8f936a91d79"
   }
 }
