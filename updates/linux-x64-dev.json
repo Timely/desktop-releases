@@ -1,8 +1,8 @@
 {
   "linux-x64-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-1.2.0-dev.107/Timely-1.2.0-dev.107.AppImage",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-1.2.0-dev.107/Timely-1.2.0-dev.107.AppImage",
-    "version": "1.2.0-dev.107",
-    "sha256": "12b9d54d2806ba94953bf0dd550b5d02ee606eb2a068e576b044d16b9bd4c122"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-1.2.0-dev.122/Timely-1.2.0-dev.122.AppImage",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-1.2.0-dev.122/Timely-1.2.0-dev.122.AppImage",
+    "version": "1.2.0-dev.122",
+    "sha256": "e518f34345860248433e3e98bde2ec528944796ceb6c6b1c90bbd482d2755a6a"
   }
 }
