@@ -1,7 +1,7 @@
 {
   "win32-ia32-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-1.2.0-dev.125",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-1.2.0-dev.125/Timely.Setup.1.2.0-dev.125.exe",
-    "version": "1.2.0-dev.125"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-1.2.0-dev.126",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/win32-ia32-dev-1.2.0-dev.126/Timely.Setup.1.2.0-dev.126.exe",
+    "version": "1.2.0-dev.126"
   }
 }
