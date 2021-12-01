@@ -1,7 +1,7 @@
 {
   "darwin-arm64-dev": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/darwin-arm64-dev-1.2.0-dev.134/release.json",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/darwin-arm64-dev-1.2.0-dev.134/Timely-1.2.0-dev.134-arm64.dmg",
-    "version": "1.2.0-dev.134"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/darwin-arm64-dev-1.2.0-dev.135/release.json",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/darwin-arm64-dev-1.2.0-dev.135/Timely-1.2.0-dev.135-arm64.dmg",
+    "version": "1.2.0-dev.135"
   }
 }
