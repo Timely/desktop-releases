@@ -1,7 +1,7 @@
 {
   "darwin-arm64-prod": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/darwin-arm64-prod-1.2.1/release.json",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/darwin-arm64-prod-1.2.1/Timely-1.2.1-arm64.dmg",
-    "version": "1.2.1"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/darwin-arm64-prod-1.2.2/release.json",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/darwin-arm64-prod-1.2.2/Timely-1.2.2-arm64.dmg",
+    "version": "1.2.2"
   }
 }
