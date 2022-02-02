@@ -1,8 +1,8 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-prod-1.2.1/Timely-1.2.1.AppImage",
-    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-prod-1.2.1/Timely-1.2.1.AppImage",
-    "version": "1.2.1",
-    "sha256": "e1b6fbd7e28af5fa2c0e33978713a9037405329daa4369adb88af78882ef44e0"
+    "update": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-prod-1.2.2/Timely-1.2.2.AppImage",
+    "install": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-prod-1.2.2/Timely-1.2.2.AppImage",
+    "version": "1.2.2",
+    "sha256": "ba4aec544c28ee6f6afa91ae99f8c203ef5f87f624741e0d1cb04372a394ec22"
   }
 }
