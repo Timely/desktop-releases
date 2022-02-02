@@ -3,6 +3,6 @@
     "update": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-prod-1.2.1/Timely-1.2.1.AppImage",
     "install": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-prod-1.2.1/Timely-1.2.1.AppImage",
     "version": "1.2.1",
-    "sha256": "8b6cc67b1cdfbd226cf98ccd35207772bf074da7562f0431d888716788151db9"
+    "sha256": "e1b6fbd7e28af5fa2c0e33978713a9037405329daa4369adb88af78882ef44e0"
   }
 }
