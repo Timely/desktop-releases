@@ -3,6 +3,6 @@
     "update": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-1.2.2-dev.134/Timely-1.2.2-dev.134.AppImage",
     "install": "https://github.com/Timely/desktop-releases/releases/download/linux-x64-dev-1.2.2-dev.134/Timely-1.2.2-dev.134.AppImage",
     "version": "1.2.2-dev.134",
-    "sha256": "ca2d8a3578848599573532008191481d9e4fb9d52150cfeaad21a7357acc749e"
+    "sha256": "3a2cc10a7f1459bc5257ad4fe2ac94931c5cfa454be2d6d24bbabff55766ccb3"
   }
 }
